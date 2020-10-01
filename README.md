@@ -22,3 +22,5 @@
 |     -      |      -      |    -     |        -        |          -           |
 
 #### Happy Hacktober ❤🎉!!!
+
+PS : If there's any confusion please ask in the issue thread. All pull requests not adhering to the instructions will not be accepted.
