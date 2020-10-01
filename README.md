@@ -7,7 +7,7 @@
 
 ## Follow these steps to contribute :
 - Star and Fork the repository.
-- Create {your-name}.md file and fill in the template given below.
+- Create {your-name}.md file and use the template given below. Copy the template in your .md file and fill in the details.
 - Execute commands 
   1. `git add .`
   2. `git commmit -m "{your-commit-message}"`
