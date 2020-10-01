@@ -17,9 +17,8 @@
 
 ### Template :
 
-| Full Name  | Profession  | Location |
-| :----------|:------------| --------:|
-|     -      |      -      |    -     |
-
+| Full Name  | Profession  | Location | Favourite Quote | Message to community |
+| :---------:|:-----------:| :-------:| :-------------: | :------------------: |
+|     -      |      -      |    -     |        -        |          -           |
 
 #### Happy Hacktober ❤🎉!!!
